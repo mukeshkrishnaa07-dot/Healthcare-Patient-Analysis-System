@@ -14,8 +14,8 @@ The main objective of this project is to perform Exploratory Data Analysis (EDA)
 
 Specific Objectives : <br>
 
-1. Generate a synthetic dataset of 10,000 patients with key health parameters<br>
-2. Perform data cleaning and preprocessing to ensure data quality<br>
+ 1. Generate a synthetic dataset of 10,000 patients with key health parameters<br>
+ 2. Perform data cleaning and preprocessing to ensure data quality<br>
 3.Analyze data using statistical measures like mean, median, and standard deviation<br>
 4.Study important health metrics such as blood pressure, sugar level, cholesterol, and heart rate<br>
 5.Classify patients into Low, Medium, and High risk categories<br>
