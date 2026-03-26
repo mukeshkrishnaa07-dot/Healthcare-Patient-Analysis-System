@@ -13,6 +13,7 @@ Objectives : <br>
 The main objective of this project is to perform Exploratory Data Analysis (EDA) on a synthetic healthcare dataset to understand patient health patterns and identify risk levels.
 
 Specific Objectives : <br>
+
 1. Generate a synthetic dataset of 10,000 patients with key health parameters<br>
 2. Perform data cleaning and preprocessing to ensure data quality<br>
 3.Analyze data using statistical measures like mean, median, and standard deviation<br>
