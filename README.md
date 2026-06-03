@@ -246,3 +246,11 @@ Overall, this project serves as a strong foundation for future healthcare analyt
 **Mukesh Krishna**
 BCA (Artificial Intelligence & Machine Learning)
 Python | Data Analytics | Machine Learning | UI/UX | Web Development
+
+#Output
+<img width="772" height="589" alt="WhatsApp Image 2026-06-03 at 12 02 32 PM (1)" src="https://github.com/user-attachments/assets/8bcc1021-a414-4c0b-b203-<img width="808" height="637" alt="WhatsApp Image 2026-06-03 at 12 02 31 PM" src="https://github.com/user-attachments/assets/0f29f94b-f7e3-4f20-b967-81c09189546c" />
+<img width="785" height="589" alt="WhatsApp Image 2026-06-03 at 12 02 32 PM" src="https://github.com/user-attachments/assets/21bdc1f1-ac55-40f9-a32d-fef2d4a51d45" />
+<img width="772" height="589" alt="WhatsApp Image 2026-06-03 at 12 02 32 PM (1)" src="https://github.com/user-attachments/assets/c80d5116-24a5-4b97-af12-c57bd1228ecc" />
+<img width="846" height="588" alt="WhatsApp Image 2026-06-03 at 12 02 30 PM" src="https://github.com/user-attachments/assets/b8e544e1-038f-4e7a-a8f8-678650fef03d" />
+
+
